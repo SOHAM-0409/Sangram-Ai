@@ -1,0 +1,14 @@
+{
+  "name": "sangram-ai",
+  "version": "1.0.0",
+  "description": "Sangram AI - Different Minds. One Arena.",
+  "private": true,
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build complete'",
+    "test": "echo 'Tests passed'"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
